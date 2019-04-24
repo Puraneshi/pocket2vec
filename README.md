@@ -2,7 +2,7 @@
 Codes to learn and test word2vec and sintax learning implementations using tweets from the president of brazil
 
 .main.py: main code, uses 'text.csv' and other .py (for functions);  
-  input:the 'palavras' variable is a list of the words which the code will use to search for context  
+  input: the 'palavras' variable is a list of the words which the code will use to search for context  
   output: a dictionary of words and weights around the searched words + a wordcloud image of those words
 
 .probability.py: contains the weight function as described by word2vec implementation
