@@ -11,3 +11,13 @@ Codes to learn and test word2vec and sintax learning implementations using tweet
   e.g. multiIter([a,b,c,d,e], 2) -> ([a,b,c], 0) , ([a,b,c,d],1) , ([a,b,c,d,e], 2) , ([b,c,d,e], 3) , ([c,d,e], 4)
 
 .cleanTweets.py: filters much of the "twitter language", links, symbols and outputs a "clean" csv
+
+
+
+Images generated with wordcloud:
+
+pt
+![pt](ptpocket.png)
+
+armas, arma
+![arma](armapocket.png)
