@@ -12,8 +12,9 @@ Codes to learn and test word2vec and sintax learning implementations using tweet
 
 .cleanTweets.py: filters much of the "twitter language", links, symbols and outputs a "clean" csv
   
-  
-  
+<br/>
+<br/>
+<br/>
 Images generated with wordcloud:
 
 pt
