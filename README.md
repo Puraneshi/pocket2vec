@@ -1,5 +1,5 @@
 # pocket2vec
-Codes to learn and test word2vec and sintax learning implementations using tweets from the president of brazil
+Codes to learn and test word2vec and sintax learning implementations using tweets from a brazilian president
 
 .main.py: main code, uses 'text.csv' and other .py (for functions);  
   input: the 'palavras' variable is a list of the words which the code will use to search for context  
